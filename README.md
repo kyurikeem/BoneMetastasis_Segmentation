@@ -1,4 +1,4 @@
-# CT_data_segmentation
+# Bone_metastasis_segmentation
 
 Detecting Bone metastasis in vertebrae using convolution neural network.
 
