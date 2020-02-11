@@ -55,3 +55,7 @@ Utilize the `Osteolytic_pickle` for the model fine-tuning.
 Output(512x512) of `learning rate=1×10^(-4)` 10 epochs and transfer learning `learning rate=1×10^(-5)` for 5 epochs additional.
 
 ![Prediction_image_Example](https://user-images.githubusercontent.com/55068090/69806563-86eda580-1226-11ea-8365-472374396db9.png)
+
+## Related works
+
+- [Journal of Biomedical Engineering Research](https://doi.org/10.9718/JBER.2017.38.6.321)
