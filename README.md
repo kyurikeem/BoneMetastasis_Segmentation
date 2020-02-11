@@ -44,11 +44,11 @@ The structure used for the train is a modified vgg-19 model, adding three deconv
 From the idea that radiologists read CT data by scrolling and comparing consecutive CT slices, we designed the model using three continuous slice feeding each model.
 
 
-To train a model(use your 'data_Par_dir'):
+To train a model(use your `data_Par_dir`):
 
     $ python Main_code.py 
 
-Utilize the Osteolytic_pickle for the model fine-tuning.
+Utilize the `Osteolytic_pickle` for the model fine-tuning.
     
 ## Results
 
