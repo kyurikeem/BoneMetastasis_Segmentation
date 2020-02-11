@@ -14,7 +14,7 @@ Detecting Bone metastasis in vertebrae using convolution neural network.
 
 ## Usage
 
-First download Backbone[imagenet-vgg-verydeep-19.mat] with:
+First download Backbone [imagenet-vgg-verydeep-19.mat] with:
 
     $ http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat
 
@@ -52,5 +52,5 @@ Utilize the Osteolytic_pickle for the model fine-tuning.
     
 ## Results
 
-### Output(512x512) of `learning rate=1×10^(-4)` 10 epochs and transfer learning `learning rate=1×10^(-5)` for 5 epochs additional.
+Output(512x512) of `learning rate=1×10^(-4)` 10 epochs and transfer learning `learning rate=1×10^(-5)` for 5 epochs additional.
 ![Prediction_image_Example](https://user-images.githubusercontent.com/55068090/69806563-86eda580-1226-11ea-8365-472374396db9.png)
